@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20191006-1543-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.10.2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="shymon-vm"
+	OSRelease="5.0.0-23-generic"
+	OSVersion="#24~18.04.1-Ubuntu SMP Mon Jul 29 16:12:28 UTC 2019"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="113"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="1434"
+	TotalPhysicalMemory="5902"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3593.11"
+	>
+	<Testing>
+		<StartDateTime>Oct 06 18:05 CEST</StartDateTime>
+		<StartTestTime>1570377929</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTest</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTest</FullName>
+			<FullCommandLine>/home/shymon/My/C/gtest/build/test/ExampleTest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00170016</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/shymon/My/C/gtest/build/test/ExampleTest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkMFqwzAQRO/6ij3aB0vtB/RQ2pBDaFKc9mRMUZyNbZB2gyS3zd/XroKJDQHPaaV57DCbd0Qt1WB1S0kKJ8cWVMMWlW8ulkm9XdSLqgP6oGrm2uB89K6K/tewQ1aVKJ5GlZBfAx5hYGLAdfZdG1CKIhtVwtrwQZvoI323jski9SyGrDvP4Nudq19tzwY/+g8vCsg/t/CvcuJIjI+eiNpt7hCQPID16bLACEPgoE0qljUKqF125B+a3uvencBpktOcvsP7836/eh1aRlaKP6ysk7c=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 06 18:05 CEST</EndDateTime>
+		<EndTestTime>1570377929</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
